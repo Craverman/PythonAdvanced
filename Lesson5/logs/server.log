@@ -1,0 +1,5 @@
+2022-06-16 18:51:48,286 INFO server.py Connected to pc ('127.0.0.1', 49911)
+2022-06-16 18:51:48,297 DEBUG server.py Message received {'action': 'presence', 'time': 1655394708.2861094, 'user': {'account_name': 'Guest'}}
+2022-06-16 18:51:48,298 DEBUG server.py Message from client: {'action': 'presence', 'time': 1655394708.2861094, 'user': {'account_name': 'Guest'}}
+2022-06-16 18:51:48,298 INFO server.py Answer to client {'response': 200}
+2022-06-16 18:51:48,298 DEBUG server.py  ('127.0.0.1', 49911) Connection closed.
