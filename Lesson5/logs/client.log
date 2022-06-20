@@ -1,0 +1,5 @@
+2022-06-16 18:51:48,286 DEBUG client.py Message presence to Guest
+2022-06-16 18:51:48,297 INFO client.py Initializing client with ip adress: 127.0.0.1, 65534
+2022-06-16 18:51:48,298 DEBUG client.py Server Response {'response': 200}
+2022-06-16 18:51:48,298 DEBUG client.py 200 : OK
+2022-06-16 18:51:48,298 INFO client.py Answer received None
