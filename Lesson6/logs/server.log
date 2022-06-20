@@ -1,0 +1,6 @@
+2022-06-20 19:22:11,522 INFO server.py Connected to pc ('127.0.0.1', 56840)
+2022-06-20 19:22:11,523 DEBUG server.py Message received {'action': 'presence', 'time': 1655742131.522811, 'user': {'account_name': 'Guest'}}
+2022-06-20 19:22:11,523 DEBUG server.py Message from client: {'action': 'presence', 'time': 1655742131.522811, 'user': {'account_name': 'Guest'}}
+2022-06-20 19:22:11,523 DEBUG decos.py Initiating function process_client_message using ({'action': 'presence', 'time': 1655742131.522811, 'user': {'account_name': 'Guest'}},), {}. from module __main__.
+2022-06-20 19:22:11,523 INFO server.py Answer to client {'response': 200}
+2022-06-20 19:22:11,523 DEBUG server.py  ('127.0.0.1', 56840) Connection closed.

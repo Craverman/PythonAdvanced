@@ -1,0 +1,7 @@
+2022-06-20 19:22:11,522 DEBUG client.py Message presence to Guest
+2022-06-20 19:22:11,522 DEBUG decos.py Initiating function create_presence using (), {}. from module __main__.
+2022-06-20 19:22:11,522 INFO client.py Initializing client with ip adress: 127.0.0.1, 65534
+2022-06-20 19:22:11,523 DEBUG client.py Server Response {'response': 200}
+2022-06-20 19:22:11,523 DEBUG client.py 200 : OK
+2022-06-20 19:22:11,523 DEBUG decos.py Initiating function process_ans using ({'response': 200},), {}. from module __main__.
+2022-06-20 19:22:11,523 INFO client.py Answer received 200 : OK
