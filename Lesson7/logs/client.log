@@ -1,0 +1,37 @@
+2022-06-23 16:49:37,712 DEBUG decos.py Initiating function arg_parser using (), {}. from module __main__.
+2022-06-23 16:49:37,712 INFO client.py Initializing client with ip adress: 127.0.0.1, port: 65534, mode: listen
+2022-06-23 16:49:37,712 DEBUG client.py presence message from user Guest
+2022-06-23 16:49:37,712 DEBUG decos.py Initiating function create_presence using (), {}. from module __main__.
+2022-06-23 16:49:37,712 DEBUG client.py Greetings from server: {'response': 200}
+2022-06-23 16:49:37,712 DEBUG decos.py Initiating function process_response_ans using ({'response': 200},), {}. from module __main__.
+2022-06-23 16:49:37,712 INFO client.py Connected to server: 200 : OK
+2022-06-23 16:49:45,666 INFO sender.py Initializing client with ip adress: 127.0.0.1, port: 65534, mode: send
+2022-06-23 16:49:45,681 DEBUG sender.py presence message from user Guest
+2022-06-23 16:49:46,197 DEBUG sender.py Greetings from server: {'response': 200}
+2022-06-23 16:49:46,197 INFO sender.py Connected to server: 200 : OK
+2022-06-23 16:49:53,449 INFO second_sender.py Initializing client with ip adress: 127.0.0.1, port: 65534, mode: send
+2022-06-23 16:49:53,449 DEBUG second_sender.py presence message from user Guest
+2022-06-23 16:49:53,949 DEBUG second_sender.py Greetings from server: {'response': 200}
+2022-06-23 16:49:53,949 INFO second_sender.py Connected to server: 200 : OK
+2022-06-23 16:50:06,516 DEBUG sender.py Dictionary with messages: {'action': 'message', 'time': 1655992206.516652, 'account_name': 'Vladislav', 'mess_text': 'hello, Mikhail'}
+2022-06-23 16:50:06,704 INFO client.py Message from user Vladislav:
+hello, Mikhail
+2022-06-23 16:50:06,704 DEBUG decos.py Initiating function message_from_server using ({'action': 'message', 'sender': 'Vladislav', 'time': 1655992206.7041297, 'mess_text': 'hello, Mikhail'},), {}. from module __main__.
+2022-06-23 16:50:14,848 DEBUG second_sender.py Dictionary with messages: {'action': 'message', 'time': 1655992214.8487833, 'account_name': 'Mikhail', 'mess_text': 'Hello, Vladislav'}
+2022-06-23 16:50:15,360 INFO client.py Message from user Mikhail:
+Hello, Vladislav
+2022-06-23 16:50:15,360 DEBUG decos.py Initiating function message_from_server using ({'action': 'message', 'sender': 'Mikhail', 'time': 1655992215.360643, 'mess_text': 'Hello, Vladislav'},), {}. from module __main__.
+2022-06-23 16:50:20,769 DEBUG sender.py Dictionary with messages: {'action': 'message', 'time': 1655992220.7693894, 'account_name': 'Vladislav', 'mess_text': 'How you doing there?'}
+2022-06-23 16:50:20,941 INFO client.py Message from user Vladislav:
+How you doing there?
+2022-06-23 16:50:20,941 DEBUG decos.py Initiating function message_from_server using ({'action': 'message', 'sender': 'Vladislav', 'time': 1655992220.9413538, 'mess_text': 'How you doing there?'},), {}. from module __main__.
+2022-06-23 16:50:25,911 DEBUG second_sender.py Dictionary with messages: {'action': 'message', 'time': 1655992225.9111197, 'account_name': 'Mikhail', 'mess_text': 'Fine, You?'}
+2022-06-23 16:50:26,051 INFO client.py Message from user Mikhail:
+Fine, You?
+2022-06-23 16:50:26,051 DEBUG decos.py Initiating function message_from_server using ({'action': 'message', 'sender': 'Mikhail', 'time': 1655992226.051729, 'mess_text': 'Fine, You?'},), {}. from module __main__.
+2022-06-23 16:50:33,401 DEBUG sender.py Dictionary with messages: {'action': 'message', 'time': 1655992233.4013305, 'account_name': 'Vladislav', 'mess_text': 'Me too, Have a good day!'}
+2022-06-23 16:50:33,729 INFO client.py Message from user Vladislav:
+Me too, Have a good day!
+2022-06-23 16:50:33,729 DEBUG decos.py Initiating function message_from_server using ({'action': 'message', 'sender': 'Vladislav', 'time': 1655992233.7298243, 'mess_text': 'Me too, Have a good day!'},), {}. from module __main__.
+2022-06-23 16:50:36,600 INFO second_sender.py Chat closed
+2022-06-23 16:50:39,678 INFO sender.py Chat closed
