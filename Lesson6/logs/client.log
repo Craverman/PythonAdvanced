@@ -5,3 +5,24 @@
 2022-06-20 19:22:11,523 DEBUG client.py 200 : OK
 2022-06-20 19:22:11,523 DEBUG decos.py Initiating function process_ans using ({'response': 200},), {}. from module __main__.
 2022-06-20 19:22:11,523 INFO client.py Answer received 200 : OK
+2022-06-23 15:51:02,974 DEBUG client.py Message presence to Guest
+2022-06-23 15:51:02,974 DEBUG decos.py Initiating function create_presence using (), {}. from module __main__.
+2022-06-23 15:51:02,990 INFO client.py Initializing client with ip adress: 127.0.0.1, 65534
+2022-06-23 15:51:03,021 DEBUG client.py Server Response {'response': 200}
+2022-06-23 15:51:03,021 DEBUG client.py 200 : OK
+2022-06-23 15:51:03,021 DEBUG decos.py Initiating function process_ans using ({'response': 200},), {}. from module __main__.
+2022-06-23 15:51:03,021 INFO client.py Answer received 200 : OK
+2022-06-23 15:52:17,424 DEBUG client.py Message presence to Guest
+2022-06-23 15:52:17,424 DEBUG decos.py Initiating function create_presence using (), {}. from module __main__.
+2022-06-23 15:52:17,424 INFO client.py Initializing client with ip adress: 127.0.0.1, 65534
+2022-06-23 15:52:17,927 DEBUG client.py Server Response {'response': 200}
+2022-06-23 15:52:17,927 DEBUG client.py 200 : OK
+2022-06-23 15:52:17,927 DEBUG decos.py Initiating function process_ans using ({'response': 200},), {}. from module __main__.
+2022-06-23 15:52:17,927 INFO client.py Answer received 200 : OK
+2022-06-23 15:52:21,416 DEBUG client.py Message presence to Guest
+2022-06-23 15:52:21,416 DEBUG decos.py Initiating function create_presence using (), {}. from module __main__.
+2022-06-23 15:52:21,416 INFO client.py Initializing client with ip adress: 127.0.0.1, 65534
+2022-06-23 15:52:21,416 DEBUG client.py Server Response {'response': 200}
+2022-06-23 15:52:21,416 DEBUG client.py 200 : OK
+2022-06-23 15:52:21,416 DEBUG decos.py Initiating function process_ans using ({'response': 200},), {}. from module __main__.
+2022-06-23 15:52:21,416 INFO client.py Answer received 200 : OK
